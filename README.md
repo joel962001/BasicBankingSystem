@@ -7,10 +7,13 @@ Basic Banking system with customer details, transaction history, and also the cu
 <br>
 ➢ <strong>TECHNOLOGY USED</strong><br>
 <br>
-Front-End:<br>
--HTML, CSS, JavaScript, Bootstrap<br>
+Front-End:
+<br>
+-HTML, CSS, JavaScript, Bootstrap
+
 Back-End:<br>
 -Python<br>
+
 Framework:<br>
 -Django
 <br>
