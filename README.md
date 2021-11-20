@@ -10,7 +10,7 @@ Basic Banking system with customer details, transaction history, and also the cu
 Front-End:
 <br>
 -HTML, CSS, JavaScript, Bootstrap
-
+<br>
 Back-End:<br>
 -Python<br>
 
