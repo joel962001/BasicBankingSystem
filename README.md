@@ -5,7 +5,7 @@
 Basic Banking system with customer details, transaction history, and also the customer's can transfer money from one account to another.
 <br>
 <br>
-➢ #Technology used<br>
+➢ <strong>TECHNOLOGY USED</strong><br>
 <br>
 Front-End:<br>
 -HTML, CSS, JavaScript, Bootstrap<br>
@@ -15,5 +15,5 @@ Framework:<br>
 -Django
 <br>
 <br>
-➢ #Website Link<br>
+➢ <strong>WEBSITE LINK</srtong><br>
 https://ayappa96.herokuapp.com/
