@@ -1,6 +1,6 @@
 # BasicBankingSystem
 <br>
-➢ #ABSTRACT<br>
+➢ <strong>ABSTRACT</strong><br>
 <br>
 Basic Banking system with customer details, transaction history, and also the customer's can transfer money from one account to another.
 <br>
